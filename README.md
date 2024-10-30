@@ -22,7 +22,8 @@
 
 ### 2024
 
- - 2024-10: [Bluetooth Low Energy GATT Fuzzing: from specification to implementation 📜](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
+ - 2024-10: [Bluetooth Low Energy GATT Fuzzing: from specification to implementation 🖥️](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-bboyer.pdf)[📜](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
+ - 2024-10: [MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/Hardweario-NL-2024/2024-10-24-mifare-pteuwen.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
  - 2024-10: [Spyware for Rent 🖥️](Confs/Les%20Assises%20-%202024/24-10-10-Monaco-Spyware-to-rent.pdf) at *[Les Assises 2024](https://www.lesassisesdelacybersecurite.com/fr-FR/le-programme/le-deroule-des-4-jours)*
  - 2024-08: [De 'branch' en 'branch' : récupération d'un FW d'ECU sur une mémoire FAT 'nettoyée' 🖥️](Confs/Barbhack24/Barbhack_2024_De_branch_en_branch.pdf) at *[Barbhack 2024](https://www.barbhack.fr/2024/en/)*
  - 2024-08: [One for all and all for WHAD: wireless shenanigans made easy ! 🖥️](Confs/DefCon2024/dc32-cauquil-cayre-One_for_all_and_all_for_whad-v4.pdf)[📽️](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20One%20for%20All%20-%20and%20All%20for%20WHAD%20-%20wireless%20shenanigans%20made%20easy%20-%20Romain%20Cayre%2C%20Damien%20Cauquil.mp4) at *[DEF CON 32](https://defcon.org/html/defcon-32/dc-32-speakers.html#54472)*
@@ -254,7 +255,7 @@
 ## Hardware CTFs
 
 
- - 2024-10: Hardware CTF v7 at *Hardwear.io NL*
+ - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL](https://hardwear.io/netherlands-2024/ctf.php)*
  - 2024-05: [Hardware CTF v6 🖥️](HardwareCTF/202405_v6_hardweario_usa.pdf) at *[Hardwear.io USA 2024](https://hardwear.io/usa-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2400).
  - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2176).
  - 2023-06: [Hardware CTF v5 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf) at *[Hardwear.io USA 2023](https://hardwear.io/usa-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2183).
