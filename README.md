@@ -9,6 +9,8 @@
 
 ### 2026
 
+ - 2026-04: [Breaking the Backbone of Global ISP Networks 🖥️](Confs/DefCon2026/defcon_singapore-breaking_the_backbone_of_global_isp_networks.pdf) at *[DefCon 2026](https://defcon.org)*
+ - 2026-04: [Breaking the Backbone of Global ISP Networks 🖥️](Confs/Zer0Con26/zer0con-breaking_the_backbone_of_global_isp_networks.pdf) at *[Zer0con 2026](https://zer0con.org/)*
  - 2026-03: [Hash All The Things / Get All the Sig(s) - Introducing Sighthouse for Seamless Function Detection 🖥️](Confs/REverse-26/Reverse26.pdf) at *[RE//verse 2026](https://re-verse.io/index.html)*
 
 ### 2025
