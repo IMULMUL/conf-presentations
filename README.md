@@ -9,6 +9,9 @@
 
 ### 2026
 
+ - 2026-06: [Pwning bluetooth devices in unexpected ways 🖥️](Confs/LeHack26/lehack26-dcauquil-pwning_bluetooth_devices_unexpected_ways.pdf) at *[leHack26](https://lehack.org/)*
+ - 2026-06: [Introduction à l’instrumentation dynamique binaire avec QBDI 🖥️](Confs/LeHack26/QBDI.pdf) workshop  at *[leHack26](https://lehack.org/)*
+ - 2026-05: [Spyware à louer 🖥️](Confs/RESSI2026/26-05-30-RESSI-Spyware-to-rent-and-offensive-world-2026-edition.pdf) at *[RESSI 2026](https://ressi2026.sciencesconf.org/?lang=fr)*
  - 2026-05: [Chain of Thought F's everybody 🖥️](Confs/THCon26/thcon26-apvrille_cauquil-chain_of_thought_fs_everyone.pdf) at *[THCon 2026](https://thcon.party/)*
  - 2026-04: [Breaking the Backbone of Global ISP Networks 🖥️](Confs/DefCon2026/defcon_singapore-breaking_the_backbone_of_global_isp_networks.pdf) at *[DefCon 2026](https://defcon.org)*
  - 2026-04: [Breaking the Backbone of Global ISP Networks 🖥️](Confs/Zer0Con26/zer0con-breaking_the_backbone_of_global_isp_networks.pdf) at *[Zer0con 2026](https://zer0con.org/)*
